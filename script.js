@@ -49,7 +49,7 @@ $('.e1b1').click(function(){
     $('.e2b2').show();
     $('.head').text('Oh did you cry, alright');
     $('.host').text('Well they seem pretty stressed out now that you decided to cry but look on bright side the lights are out');
-    $('.body1').text('What will you do, finally shut up or try to get some more attention for that growing ego?');
+    $('.body1').text('What will you do, finally shut up or try to get some more attention for that growing');
     $('.change').show();
 });
 
