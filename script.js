@@ -39,7 +39,20 @@ $('.start').click(function(){
     $('.open').hide();
 });
 
-$('.talk1').click(function(){
-    $('.talk2').hide();
-    $('.talk1').hide();
+
+
+$('.e1b1').click(function(){
+    $('.intro').hide();
+    $('.e1b1').hide();
+    $('.e1b2').hide();
+    $('.e2b1').show();
+    $('.e2b2').show();
+    $('.head').text('Oh did you cry, alright');
+    $('.host').text('Well they seem pretty stressed out now that you decided to cry but look on bright side the lights are out');
+    $('.body1').text('What will you do, finally shut up or try to get some more attention for that growing ego?');
+    $('.change').show();
+});
+
+$('.continue').click(function(){
+    $('.nogerald').show();
 });
