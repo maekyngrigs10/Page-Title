@@ -38,3 +38,8 @@ $('.start').click(function(){
     $('.gameintro').hide();
     $('.open').hide();
 });
+
+$('.talk1').click(function(){
+    $('.talk2').hide();
+    $('.talk1').hide();
+});
