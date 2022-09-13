@@ -56,3 +56,4 @@ $('.e1b1').click(function(){
 $('.continue').click(function(){
     $('.nogerald').show();
 });
+
